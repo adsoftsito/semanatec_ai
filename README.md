@@ -11,5 +11,7 @@
 [Slides day 3](https://docs.google.com/presentation/d/1eOpOeQgsEBB3ouU0WixBjdo21OJ7qnrU/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 # day 4
 
+[Slides day 4](https://docs.google.com/presentation/d/1INknZUMYDYNUYpbL9X5TgPpAX0x-zf55/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+
 # day 5
 
