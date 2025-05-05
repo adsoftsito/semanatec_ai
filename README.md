@@ -1,4 +1,5 @@
-# taller_itsz
+# semana tec - Herramientas computacionales: el arte de la analítica
+
 
 # day 1
 
