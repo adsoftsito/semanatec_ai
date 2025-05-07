@@ -1,5 +1,7 @@
 # semana tec - Herramientas computacionales: el arte de la analítica
 
+# sesiones grabadas
+[videos](https://drive.google.com/drive/folders/1bgDQ6Cjov07wU_X5Q3KZWVGZ6rkMu2nF?usp=sharing)
 
 # day 1
 
